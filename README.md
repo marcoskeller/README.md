@@ -1,4 +1,3 @@
-# README.md
 
 <!-- Cover -->
 <p align="center">
