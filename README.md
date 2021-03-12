@@ -1,4 +1,3 @@
-
 <!-- Cover -->
 <p align="center">
 	<img 
