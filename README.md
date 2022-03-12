@@ -40,7 +40,6 @@
 	<img alt="HTML5" src="https://img.shields.io/badge/-HTML-fff?style=plastic&logo=HTML5" title="HTML5" />
 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fff?fff&style=plastic&logo=javascript&logoColor=f7ab00" title="JavaScript" />
 	<img alt="JSON" src="https://img.shields.io/badge/-JSON-fff?style=plastic&logo=json&logoColor=1a1a1a" title="JSON" />
-	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-fff?style=plastic&logo=typescript" title="TypeScript" />
 	<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-fff?style=plastic&logoColor=00758f&logo=mysql" title="MySQL" />
 	<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-fff?style=plastic&logoColor=fff&logo=node.js&logoColor=5B9856" title="Node.js" />
 
@@ -54,7 +53,6 @@
 	<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-fff?style=plastic&logo=github&logoColor=333333" title="GitHub" />
 	<img alt="NPM" src="https://img.shields.io/badge/-NPM-fff?style=plastic&logo=npm" title="NPM" />
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
-	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-fff?style=plastic&logo=webpack&logoColor=1b74ba" title="Webpack" />
 </p>
 
 <!-- GitHub Stats -->
