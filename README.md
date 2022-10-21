@@ -38,7 +38,7 @@
 <!-- Languages, libs and frameworks -->
 <p align="left">
 	<img alt="HTML5" src="https://img.shields.io/badge/-HTML-fff?style=plastic&logo=HTML5" title="HTML5" />
-	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fff?fff&style=plastic&logo=javascript&logoColor=f7ab00" title="JavaScript" />
+	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fff?fff&style=plastic&logo=javascript&logoColor=f7ab00" title="c#" />
 	<img alt="JSON" src="https://img.shields.io/badge/-JSON-fff?style=plastic&logo=json&logoColor=1a1a1a" title="JSON" />
 	<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-fff?style=plastic&logoColor=00758f&logo=mysql" title="MySQL" />
 	<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-fff?style=plastic&logoColor=fff&logo=node.js&logoColor=5B9856" title="Node.js" />
