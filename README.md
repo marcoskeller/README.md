@@ -14,12 +14,7 @@
 	<img alt="GitHub Marcos Keller" src="https://img.shields.io/badge/GitHub-MarcosKeller-6ad600?style=plastic&color=6ad600" title="GitHub Marcos Keller" />
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/JefersonLucas?style=plastic&color=6ad600" title="GitHub followers" />
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JefersonLucas?style=plastic&color=6ad600" title="GitHub User's stars" />
-	<img alt="Years Badge" src="https://badges.pufler.dev/years/JefersonLucas?style=plastic&color=6ad600" title="Years Badge" />
-	<img alt="Repos Badge" src="https://badges.pufler.dev/repos/JefersonLucas?style=plastic&color=6ad600" title="Repos Badge" />
-	<img alt="Visits Badge" src="https://badges.pufler.dev/visits/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="Visits Badge" />
-	<img alt="Created Badge" src="https://badges.pufler.dev/created/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="Created Badge" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="GitHub last commit" />
-	<img alt="Updated Badge" src="https://badges.pufler.dev/updated/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="Updated Badge" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JefersonLucas/JefersonLucas?style=plastic&color=6ad600" title="GitHub commit" />
 </p>
 
 <!-- Social Networks -->
