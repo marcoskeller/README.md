@@ -43,7 +43,6 @@
 
 <!-- Tools Front-end -->
 <p align="left">
-	<img alt="Babel" src="https://img.shields.io/badge/-Babel-fff?style=plastic&logo=babel" title="Babel" />
 	<img alt="Git" src="https://img.shields.io/badge/-Git-fff?style=plastic&logo=git" title="Git" />
 	<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-fff?style=plastic&logo=github&logoColor=333333" title="GitHub" />
 	<img alt="NPM" src="https://img.shields.io/badge/-NPM-fff?style=plastic&logo=npm" title="NPM" />
@@ -62,14 +61,15 @@
 </p>
 -->
 
+<!--
 <p align="left">
 	<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonLucas&layout=compact&theme=chartreuse-dark&hide_border=true" title="Top Langs" />
 </p>
-
+-->
 
 ## Olá, tudo bem? &#129311;&#127995;&#129492;&#127995;
 
-👨🏻‍💻 Me chamo **Marcos Keller**, tenho 39 anos, sou formado em Engenharia Mecânica e atuo como desenvolvedor .Net Junior. Sou apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Back-end**.
+👨🏻‍💻 Me chamo **Marcos Keller**, tenho 40 anos e atuo como desenvolvedor .Net Junior. Sou apaixonado pela tecnologia, música, games e estou focado na área de **Desenvolvimento Back-end**.
 
 👨🏻‍🎓 Estou iniciando no desenvolvevimento de aplicações utilizando as tecnologias: **.NET Core**,**Asp.NET Core**, **React**, **Node.js**, **SQL Server**, **MongoDB**.
 
